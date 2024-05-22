@@ -30,5 +30,5 @@ If this option is active, _SwitchObject_ will be automatically renamed according
 
 ## Credits
 Written by Frank Willeke  
-[www.frankwilleke.de] (https://www.frankwilleke.de)  
+[www.frankwilleke.de](https://www.frankwilleke.de)  
 Released as open source under GPL3 license.
