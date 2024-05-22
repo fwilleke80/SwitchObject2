@@ -7,6 +7,8 @@ _SwitchObject_ makes this really easy for you: No Xpresso, no User Data, no take
 
 _SwitchObject 2_ is a Python rewrite of my classic C++ plugin [SwitchObject](https://github.com/fwilleke80/SwitchObject). _SwitchObject 2_ does things in a cleaner way, the code is more compact, and it's platform independent.
 
+## Installation
+Unpack the ZIP archive, and copy the contained folder to `/Maxon/Cinema 4D/plugins`. Then (re)start Cinema 4D.
 
 ## Usage
 <figure style="align: left; margin: 0 0 0 0; display: inline-block;" >
