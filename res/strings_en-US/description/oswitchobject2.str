@@ -1,0 +1,8 @@
+STRINGTABLE oswitchobject2
+{
+	oswitchobject2           "SwitchObject";
+
+    SWITCHOBJECT2_PARENTLINK "Parent Link";
+	SWITCHOBJECT2_RENAME     "Rename Object";
+	SWITCHOBJECT2_CHILD      "Enable Child";
+}
